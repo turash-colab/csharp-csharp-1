@@ -1,0 +1,11 @@
+c:\users\husam\documents\visual studio 2017\Projects\RemotingClass\RemotingClass\bin\Debug\RemotingClass.dll
+c:\users\husam\documents\visual studio 2017\Projects\RemotingClass\RemotingClass\bin\Debug\RemotingClass.pdb
+c:\users\husam\documents\visual studio 2017\Projects\RemotingClass\RemotingClass\obj\Debug\RemotingClass.csprojResolveAssemblyReference.cache
+c:\users\husam\documents\visual studio 2017\Projects\RemotingClass\RemotingClass\obj\Debug\RemotingClass.dll
+c:\users\husam\documents\visual studio 2017\Projects\RemotingClass\RemotingClass\obj\Debug\RemotingClass.pdb
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemotingClass\RemotingClass\bin\Debug\RemotingClass.dll
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemotingClass\RemotingClass\bin\Debug\RemotingClass.pdb
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemotingClass\RemotingClass\obj\Debug\RemotingClass.csproj.AssemblyReference.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemotingClass\RemotingClass\obj\Debug\RemotingClass.csproj.CoreCompileInputs.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemotingClass\RemotingClass\obj\Debug\RemotingClass.dll
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemotingClass\RemotingClass\obj\Debug\RemotingClass.pdb

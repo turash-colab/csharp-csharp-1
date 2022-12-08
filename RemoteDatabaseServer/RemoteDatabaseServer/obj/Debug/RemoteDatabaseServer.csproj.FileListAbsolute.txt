@@ -1,0 +1,21 @@
+c:\users\husam\documents\visual studio 2017\Projects\RemoteDatabaseServer\RemoteDatabaseServer\bin\Debug\RemoteDatabaseServer.exe.config
+c:\users\husam\documents\visual studio 2017\Projects\RemoteDatabaseServer\RemoteDatabaseServer\bin\Debug\RemoteDatabaseServer.exe
+c:\users\husam\documents\visual studio 2017\Projects\RemoteDatabaseServer\RemoteDatabaseServer\bin\Debug\RemoteDatabaseServer.pdb
+c:\users\husam\documents\visual studio 2017\Projects\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.csprojResolveAssemblyReference.cache
+c:\users\husam\documents\visual studio 2017\Projects\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.Main.resources
+c:\users\husam\documents\visual studio 2017\Projects\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.Properties.Resources.resources
+c:\users\husam\documents\visual studio 2017\Projects\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.csproj.GenerateResource.Cache
+c:\users\husam\documents\visual studio 2017\Projects\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.exe
+c:\users\husam\documents\visual studio 2017\Projects\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.pdb
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemoteDatabaseServer\RemoteDatabaseServer\bin\Debug\RemoteDatabaseServer.exe.config
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemoteDatabaseServer\RemoteDatabaseServer\bin\Debug\RemoteDatabaseServer.exe
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemoteDatabaseServer\RemoteDatabaseServer\bin\Debug\RemoteDatabaseServer.pdb
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.csproj.AssemblyReference.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.csproj.SuggestedBindingRedirects.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.Main.resources
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.Properties.Resources.resources
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.csproj.GenerateResource.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.csproj.CoreCompileInputs.cache
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.csproj.CopyComplete
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.exe
+D:\dev\csharp-csharp-everywhere\winf_to_mssql4_den_files\Remoting+with+C+sharp\Remoting with C sharp\RemoteDatabaseServer\RemoteDatabaseServer\obj\Debug\RemoteDatabaseServer.pdb
